@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Hello, this is my project!";
 ```
+
+- [ ] Finish this assignment
+- [ ] Do extra credit
+- [ ] get a good grade
